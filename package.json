@@ -1,0 +1,23 @@
+{
+  "name": "test-renovate-minimumreleaseage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korosuke613/test-renovate-minimumReleaseAge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korosuke613/test-renovate-minimumReleaseAge/issues"
+  },
+  "homepage": "https://github.com/korosuke613/test-renovate-minimumReleaseAge#readme",
+  "dependencies": {
+    "@types/lodash": "4.17.16",
+    "@types/openui5": "^1.113.0"
+  }
+}
