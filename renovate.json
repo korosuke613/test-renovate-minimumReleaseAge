@@ -1,0 +1,22 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+
+  "packageRules": [
+    {
+      "matchDatasources": ["npm"],
+      "matchPackageNames": "@types/lodash",
+      "minimumReleaseAge": "21 days",
+      "internalChecksFilter": "strict",
+      "automerge": false,
+      "dependencyDashboard": true
+    },
+    {
+      "matchDatasources": ["npm"],
+      "matchPackageNames": "@types/openui5",
+      "minimumReleaseAge": "21 days",
+      "internalChecksFilter": "strict",
+      "automerge": true,
+      "dependencyDashboard": true
+    }
+  ]
+}
