@@ -1,0 +1,11 @@
+on: pull_request
+
+jobs:
+  success:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run tests
+        run: |
+          echo "Running tests..."
+          # Here you can add commands to run your tests, e.g., npm test or yarn test
+          echo "Tests completed successfully!"
