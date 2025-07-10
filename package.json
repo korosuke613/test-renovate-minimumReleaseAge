@@ -18,6 +18,7 @@
   "homepage": "https://github.com/korosuke613/test-renovate-minimumReleaseAge#readme",
   "dependencies": {
     "@types/lodash": "4.17.19",
-    "@types/openui5": "1.136.0"
+    "@types/openui5": "1.136.0",
+    "typescript": "5.8.2"
   }
 }

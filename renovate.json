@@ -16,6 +16,11 @@
       "minimumReleaseAge": "21 days",
       "internalChecksFilter": "strict",
       "automerge": true
+    },
+    {
+      "matchDatasources": ["npm"],
+      "matchPackageNames": "typescript",
+      "automerge": true
     }
   ]
 }
