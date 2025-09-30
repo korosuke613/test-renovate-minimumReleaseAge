@@ -19,6 +19,6 @@
   "dependencies": {
     "@types/lodash": "4.17.19",
     "@types/openui5": "1.140.0",
-    "typescript": "5.9.2"
+    "typescript": "5.9.3"
   }
 }
